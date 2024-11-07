@@ -30,9 +30,10 @@
 <a href="https://www.behance.net/gallery/212004317/Flavor-Soda-Stories-Campaign-1-Landing-Page" target="_blank" >
 <img src="./img/Flavor-Soda-Landing-page-desktop.gif" width="575px"/>
 </a>
+<br/>
 <span>Tablet Desgin</span><br/>
 <a href="https://www.behance.net/gallery/212004317/Flavor-Soda-Stories-Campaign-1-Landing-Page" target="_blank" >
-<img src="./img/Flavor-Soda-Landing-page-tablet.gif" alt="Flavor Soda-landing-page" width="575px" />
+<img src="./img/Flavor-Soda-Landing-page-tablet.gif" alt="Flavor Soda-landing-page" width="375px" />
 </a>
 
 <span>Mobile Desgin</span><br/>
