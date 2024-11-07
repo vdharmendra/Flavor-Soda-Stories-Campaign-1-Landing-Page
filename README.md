@@ -38,7 +38,7 @@
 
 <span>Mobile Desgin</span><br/>
 <a href="https://www.behance.net/gallery/212004317/Flavor-Soda-Stories-Campaign-1-Landing-Page" target="_blank" >
-<img src="./img/Flavor-Soda-Landing-page-mobile.gif" alt="Flavor Soda-landing-page" width="375px" />
+<img src="./img/Flavor-Soda-Landing-page-mobile.gif" alt="Flavor Soda-landing-page" width="275px" />
 </a>
 
 
